@@ -1,0 +1,7 @@
+streamlit
+pypdf
+sentence-transformers
+numpy
+openai>=1.40.0
+pandas
+google-generativeai
